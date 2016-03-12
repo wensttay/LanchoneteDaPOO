@@ -7,9 +7,9 @@ sistema computacional para auxiliar na gestão do negócio. Por exemplo:
 
 - Alguns pedidos realizados pelos clientes demoram a ser repassados ao(s) cozinheiro(s);
 - Como não há um controle da fila de pedidos, por vezes acontece da ordem dos mesmos ser alterada;
-- Não há como saber quantas unidades de determinado produto foi vendido em uma data, muito menos fazer um balanço do que foi vendido nessa data.
+- Não há como saber quantas unidades de determinado produto foi vendido em uma data, muito menos fazer um balanço do que foi vendido nessa data;
 
-  O dono da lanchonete então decidiu contratar estudantes do segundo período de ADS para desenvolver um sistema que auxilie a resolver esses problemas. Porém, como ele soube que a turma de POO ainda não concluiu a disciplina, aceitou que o sistema funcionasse em modo texto e, além disso, que (ainda) não houvesse a necessidade de integrar com arquivos ou banco de dados. Por outro lado, os dados devem ser armazenados temporariamente eu uma lista. O cliente (dono da lanchonete) informou que sistema pode ser acessado por três usuários distintos:
+O dono da lanchonete então decidiu contratar estudantes do segundo período de ADS para desenvolver um sistema que auxilie a resolver esses problemas. Porém, como ele soube que a turma de POO ainda não concluiu a disciplina, aceitou que o sistema funcionasse em modo texto e, além disso, que (ainda) não houvesse a necessidade de integrar com arquivos ou banco de dados. Por outro lado, os dados devem ser armazenados temporariamente eu uma lista. O cliente (dono da lanchonete) informou que sistema pode ser acessado por três usuários distintos:
 
 - Garçom: Funcionário que realiza os pedidos, ele consegue visualizar os produtos que estão no cardápio da lanchonete e assim, realizar os pedidos para cada mesa. Após ele realizar o pedido, o mesmo segue para uma fila que será acessada pelo cozinheiro.
 - Cozinheiro: Funcionário que atende aos pedidos, ele consegue visualizar a fila de pedidos e atende-los mantendo a ordem de realização dos mesmos. Após um pedido ser atendido, ele deve ser removido da mesma e colocado na lista que contém todos os pedidos atendidos.
