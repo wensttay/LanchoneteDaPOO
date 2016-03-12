@@ -18,7 +18,7 @@ sistema computacional para auxiliar na gestão do negócio. Por exemplo:
 A modelagem das classes fica a critério do grupo, mas devem seguir os conceitos da Orientação a Objetos.
 
 #Execução:
-A execução do programa é simples. No início da execução o utilizador irá indicar que tipo de usuário ele é (autenticação é opcional). Após isso, serão listadas as funcionalidades disponíveis para o tipo de usuário escolhido. Como a interface gráfica é opcional nesse trabalho, os comandos devem ser realizados em linha de texto. Além disso, toda a aplicação roda em uma única máquina, pois ainda não foram abordados conceitos de aplicações distribuídas em Java na disciplina (Isso não os impede de tentar).
+  A execução do programa é simples. No início da execução o utilizador irá indicar que tipo de usuário ele é (autenticação é opcional). Após isso, serão listadas as funcionalidades disponíveis para o tipo de usuário escolhido. Como a interface gráfica é opcional nesse trabalho, os comandos devem ser realizados em linha de texto. Além disso, toda a aplicação roda em uma única máquina, pois ainda não foram abordados conceitos de aplicações distribuídas em Java na disciplina (Isso não os impede de tentar).
 
 No mínimo, o seu sistema deverá permitir:
 
