@@ -1,4 +1,4 @@
-package sistem;
+package br.edu.ifpb.ads.poo.lanchonete.sistem;
 
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
@@ -6,7 +6,7 @@ import java.util.Date;
 
 /**
  * @version 1.0
- * @author wensttay <yattsnew@gmail.com>
+ * @author Wensttay de Sousa Alencar <yattsnew@gmail.com>
  * @date 07/01/2017 - 12:01:31
  */
 public class ConjuntoDePedidos {

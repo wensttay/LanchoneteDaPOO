@@ -1,16 +1,16 @@
-package peoples;
+package br.edu.ifpb.ads.poo.lanchonete.peoples;
 
 import java.util.ArrayList;
 import java.util.InputMismatchException;
 
 import java.util.Scanner;
-import sistem.ConjuntoDePedidos;
-import sistem.JOMensagens;
-import sistem.Loja;
+import br.edu.ifpb.ads.poo.lanchonete.sistem.ConjuntoDePedidos;
+import br.edu.ifpb.ads.poo.lanchonete.sistem.JOMensagens;
+import br.edu.ifpb.ads.poo.lanchonete.sistem.Loja;
 
 /**
  * @version 1.0
- * @author wensttay <yattsnew@gmail.com>
+ * @author Wensttay de Sousa Alencar <yattsnew@gmail.com>
  * @date 07/01/2017 - 12:01:31
  */
 public class Cozinheiro extends Funcionario {
